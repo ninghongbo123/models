@@ -181,12 +181,9 @@ Keep updates short and operational. For each newly discovered trick:
 
 Suggested mini-template for additions:
 
-```markdown
+~~~markdown
 ### New trick: <short name>
 - Use when: <symptom/change scope>
-- Command:
-  ```bash
-  <exact command>
-  ```
+- Command: `<exact command>`
 - Success signal: <1 line>
-```
+~~~
